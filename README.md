@@ -1,0 +1,1 @@
+# Diretor-Fotogr-fico-IA-Ultimate-
