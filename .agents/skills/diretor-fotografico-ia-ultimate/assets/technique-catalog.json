@@ -1,0 +1,254 @@
+[
+  {
+    "module": "framing",
+    "id": "wide",
+    "term": "Wide shot / Long shot",
+    "pt": "Plano aberto",
+    "definition": "Corpo inteiro com contexto ambiental; sujeito e cenário têm importância.",
+    "use": "Moda de corpo inteiro, paisagem e cenas ambientais.",
+    "example_en": "Eye level, front, wide shot of an adult, navy jacket, beige trousers, garden setting, soft daylight, 50mm lens."
+  },
+  {
+    "module": "framing",
+    "id": "medium-long",
+    "term": "Medium long shot",
+    "pt": "Plano médio longo",
+    "definition": "Corte aproximadamente na região dos joelhos, com mais ênfase no sujeito que no plano aberto.",
+    "use": "Catálogos de moda e retratos que mostram grande parte do figurino.",
+    "example_en": "Eye level, front, medium long shot of an adult, navy jacket and beige trousers visible to the knees, neutral studio, loop lighting, 50mm lens."
+  },
+  {
+    "module": "framing",
+    "id": "medium",
+    "term": "Mid shot / Medium shot",
+    "pt": "Plano médio",
+    "definition": "Da cintura para cima; equilíbrio entre rosto e tronco. Descrever apenas roupas visíveis.",
+    "use": "Retrato profissional, LinkedIn, perfil e comunicação institucional.",
+    "example_en": "Eye level, front, medium shot of an adult from the waist up, navy shirt, neutral studio, loop lighting, 85mm lens."
+  },
+  {
+    "module": "framing",
+    "id": "medium-close",
+    "term": "Medium close-up",
+    "pt": "Plano médio fechado",
+    "definition": "Plano próximo com rosto e parte superior do tronco. Fonte usa umbigo/peito; convenções variam. Especificar o corte exato, por exemplo peito para cima, e confirmar no modo guiado.",
+    "use": "Perfil, thumbnails, retratos próximos e intimistas.",
+    "example_en": "Eye level, three-quarter view, medium close-up portrait of an adult, explicitly framed from the chest up, navy shirt visible at the shoulders, neutral background, loop lighting, 85mm lens."
+  },
+  {
+    "module": "framing",
+    "id": "close",
+    "term": "Close-up",
+    "pt": "Primeiro plano",
+    "definition": "Rosto protagonista, com pouco contexto. Definir limites visíveis em vez de confiar somente no nome; o eBook aproxima a definição de medium close-up e repete seu exemplo.",
+    "use": "Expressão, conexão emocional e campanhas.",
+    "example_en": "Eye level, front close-up portrait of an adult, tightly framed around the head and shoulders, eyes in sharp focus, neutral background, soft loop lighting, 85mm lens."
+  },
+  {
+    "module": "framing",
+    "id": "extreme-close",
+    "term": "Extreme close-up",
+    "pt": "Primeiríssimo plano",
+    "definition": "Detalhe muito fechado do rosto, com possíveis cortes de testa/queixo. Não exigir calça, sapatos ou cenário amplo no mesmo plano.",
+    "use": "Textura de pele, olhos, intensidade e campanhas artísticas.",
+    "example_en": "Extreme close-up of an adult face, tightly cropped around the eyes, nose and mouth, natural skin texture, soft directional light, eye-level view."
+  },
+  {
+    "module": "lighting",
+    "id": "butterfly",
+    "term": "Butterfly / Paramount lighting",
+    "pt": "Luz borboleta",
+    "definition": "Luz elevada e frontal, sombra aproximadamente simétrica sob o nariz e realce de maçãs do rosto. Padrão ligado ao glamour clássico de Hollywood.",
+    "use": "Beleza, glamour e elegância; mais legível em posição frontal.",
+    "example_en": "Eye level, front medium close-up portrait of an adult, butterfly lighting from above and in front with a small symmetric shadow below the nose, neutral studio, 85mm lens."
+  },
+  {
+    "module": "lighting",
+    "id": "loop",
+    "term": "Loop lighting",
+    "pt": "Luz Loop",
+    "definition": "Luz um pouco acima dos olhos e deslocada lateralmente; pequena sombra nasal arredondada/diagonal sem unir totalmente à sombra da bochecha. Os 30–45 graus da fonte são orientação, não exigência universal.",
+    "use": "Retratos corporativos, versáteis e favorecedores.",
+    "example_en": "Eye level, front medium shot of an adult in a navy shirt, soft loop lighting with a small nose shadow, neutral studio, 85mm lens."
+  },
+  {
+    "module": "lighting",
+    "id": "rembrandt",
+    "term": "Rembrandt lighting",
+    "pt": "Luz Rembrandt",
+    "definition": "Luz lateral/elevada que deixa triângulo iluminado na bochecha do lado em sombra; contraste pode ser graduado. Nome associado ao pintor Rembrandt van Rijn.",
+    "use": "Retratos artísticos, profundidade, drama ou autoridade.",
+    "example_en": "Eye level, three-quarter close-up portrait of an adult, Rembrandt lighting with a small illuminated cheek triangle on the shadow side, dark studio, 85mm lens."
+  },
+  {
+    "module": "lighting",
+    "id": "split",
+    "term": "Split lighting",
+    "pt": "Luz dividida",
+    "definition": "Iluminação lateral aproximadamente a 90 graus, separando visualmente face iluminada e face em sombra. Controlar contraste conforme intenção; não precisa virar preto sem detalhe.",
+    "use": "Mistério, introspecção, tensão e cartaz conceitual.",
+    "example_en": "Eye level, front close-up portrait of an adult, split lighting from the side with half the face illuminated and half in deep shadow, dark background, 85mm lens."
+  },
+  {
+    "module": "temperature",
+    "id": "warm",
+    "term": "Warm lighting",
+    "pt": "Luz quente",
+    "definition": "Aparência amarelada/alaranjada, associada a aconchego, nostalgia e intimidade. Aparência depende de luz, balanço de branco e contexto, não de um Kelvin fixo inventado.",
+    "use": "Interior acolhedor, retrato intimista e atmosfera de fim de tarde.",
+    "example_en": "Eye level, front medium close-up of an adult in a casual sweater, warm amber light, cozy interior, natural skin texture, 50mm lens."
+  },
+  {
+    "module": "temperature",
+    "id": "cool",
+    "term": "Cool lighting",
+    "pt": "Luz fria",
+    "definition": "Aparência azulada, associada a tecnologia, noite, distanciamento ou modernidade; efeitos emocionais são possibilidades, não diagnósticos.",
+    "use": "Editorial tecnológico, cena noturna e atmosfera futurista.",
+    "example_en": "Eye level, three-quarter medium close-up of an adult, cool bluish light, restrained technological background, realistic skin, 85mm lens."
+  },
+  {
+    "module": "temperature",
+    "id": "neutral",
+    "term": "Neutral lighting",
+    "pt": "Luz neutra",
+    "definition": "Aparência branca equilibrada, preservando cores sem dominante quente/fria deliberada. Pode combinar com qualquer padrão de luz coerente.",
+    "use": "Corporativo, fidelidade de cor e retrato versátil.",
+    "example_en": "Eye level, front medium shot of an adult in a navy shirt, neutral white loop lighting, gray studio background, natural colors, 85mm lens."
+  },
+  {
+    "module": "lenses",
+    "id": "16mm",
+    "term": "16mm lens",
+    "pt": "Ultra grande angular",
+    "definition": "Direção de campo amplo em referência full-frame. Curvatura não é obrigatória: lente retilínea não equivale a fisheye. Proximidade e posição afetam perspectiva e alongamento de rosto.",
+    "use": "Ambiente amplo e exagero criativo deliberado; evitar impor a retrato natural muito próximo.",
+    "example_en": "Wide environmental portrait of an adult in a large studio, 16mm full-frame-equivalent visual direction, ample surroundings, deliberate wide-angle perspective, natural light."
+  },
+  {
+    "module": "lenses",
+    "id": "24mm",
+    "term": "24mm lens",
+    "pt": "Grande angular",
+    "definition": "Campo amplo com contexto; aproximação extrema pode exagerar feições. Não prometer nível fixo de distorção sem lente/sensor e distância.",
+    "use": "Retrato ambiental e cenas com cenário relevante.",
+    "example_en": "Eye level, front wide shot of an adult in an urban plaza, 24mm full-frame-equivalent visual direction, generous environmental context, soft daylight."
+  },
+  {
+    "module": "lenses",
+    "id": "50mm",
+    "term": "50mm lens",
+    "pt": "Normal",
+    "definition": "Direção visual versátil em full-frame. Não reproduz universalmente a visão humana nem garante ausência de distorção; perspectiva depende da posição da câmera.",
+    "use": "Retrato natural, cotidiano e uso geral.",
+    "example_en": "Eye level, front medium shot of an adult in a casual shirt, soft daylight, natural proportions, 50mm full-frame-equivalent visual direction."
+  },
+  {
+    "module": "lenses",
+    "id": "85mm",
+    "term": "85mm lens",
+    "pt": "Retrato",
+    "definition": "Direção comum de retrato com campo mais estreito; para manter enquadramento costuma-se afastar câmera, mudando perspectiva. Separação de fundo depende também de abertura e distâncias.",
+    "use": "Headshot, beleza e retrato profissional.",
+    "example_en": "Eye level, three-quarter head-and-shoulders portrait of an adult, soft loop lighting, restrained background separation, 85mm full-frame-equivalent visual direction."
+  },
+  {
+    "module": "angles",
+    "id": "eye-level",
+    "term": "Eye level angle",
+    "pt": "Altura dos olhos",
+    "definition": "Câmera na altura dos olhos; relação direta e natural. Não determina corte ou posição do rosto.",
+    "use": "Profissional, retrato convencional e conexão.",
+    "example_en": "Eye level angle, front medium shot of an adult in a yellow shirt, neutral studio, butterfly lighting."
+  },
+  {
+    "module": "angles",
+    "id": "low",
+    "term": "Low angle",
+    "pt": "Ângulo baixo",
+    "definition": "Câmera abaixo olhando para cima; pode sugerir imponência. Pode combinar com diferentes planos e orientação do sujeito.",
+    "use": "Esportivo, autoridade e perspectiva criativa.",
+    "example_en": "Low angle, front wide shot of an adult athlete in sportswear, stadium background, directional light."
+  },
+  {
+    "module": "angles",
+    "id": "super-low",
+    "term": "Super low angle",
+    "pt": "Ângulo muito baixo",
+    "definition": "Versão acentuada do low angle, câmera próxima do chão; exagero de escala deve ser intencional. Worm’s-eye view pode ser alternativa aproximada, não sinônimo exato em todos os contextos.",
+    "use": "Campanha esportiva e grande imponência.",
+    "example_en": "Super low angle near ground level, front wide shot of an adult athlete in running clothes, stadium background, dramatic directional lighting."
+  },
+  {
+    "module": "angles",
+    "id": "high",
+    "term": "High angle",
+    "pt": "Ângulo alto",
+    "definition": "Câmera acima inclinada para baixo; pode sugerir vulnerabilidade ou apenas variar composição. Não confundir com overhead vertical.",
+    "use": "Drama, variação criativa e relação sujeito/ambiente.",
+    "example_en": "High angle medium shot of an adult in a yellow shirt, looking gently toward the camera, soft studio lighting."
+  },
+  {
+    "module": "angles",
+    "id": "overhead",
+    "term": "Overhead angle",
+    "pt": "Vista superior",
+    "definition": "Câmera diretamente acima, olhando para baixo; especificar posição/gesto compatível, sem fingir retrato frontal à altura dos olhos.",
+    "use": "Composição artística, vista superior e impacto.",
+    "example_en": "Overhead shot directly above an adult seated on a studio floor, looking upward, simple neutral clothing, diffuse light."
+  },
+  {
+    "module": "angles",
+    "id": "aerial",
+    "term": "Aerial angle",
+    "pt": "Vista aérea",
+    "definition": "Vista elevada e geralmente distante para contexto ambiental; pode ser oblíqua ou vertical, não exige sempre maior altura que todo overhead.",
+    "use": "Contexto amplo, pessoa em paisagem e aparência de drone.",
+    "example_en": "High aerial wide view of an adult standing in an open garden, small figure within the landscape, natural daylight, generous environmental context."
+  },
+  {
+    "module": "angles",
+    "id": "dutch",
+    "term": "Dutch angle",
+    "pt": "Câmera inclinada",
+    "definition": "Rotação lateral/roll que inclina o horizonte; é eixo diferente da altura, podendo combinar com eye level/low/high. Fonte associa o termo a Deutsch e expressionismo alemão; tratar essa origem nominal como nota da fonte, não validação histórica independente.",
+    "use": "Editorial, cinema, ação e tensão deliberada.",
+    "example_en": "Eye level with a deliberate Dutch tilt, three-quarter medium shot of an adult model, minimalist studio, controlled split lighting."
+  },
+  {
+    "module": "position",
+    "id": "front",
+    "term": "Front / Frontal",
+    "pt": "De frente",
+    "definition": "Face orientada à câmera; olhar para a lente pode ser especificado separadamente.",
+    "use": "Conexão, confiança e retrato convencional.",
+    "example_en": "Front medium shot of an adult, gaze toward the lens, yellow shirt, studio photo, soft butterfly lighting."
+  },
+  {
+    "module": "position",
+    "id": "semi-profile",
+    "term": "Semi-profile / Semiprofile",
+    "pt": "Semiperfil / três quartos",
+    "definition": "Rosto girado parcialmente, aproximadamente 45 graus na fonte, geralmente com ambos olhos visíveis; tridimensionalidade e interesse visual.",
+    "use": "Editorial e retrato com profundidade.",
+    "example_en": "Eye level, semi-profile medium shot of an adult, both eyes visible, yellow shirt, neutral studio, soft loop lighting."
+  },
+  {
+    "module": "position",
+    "id": "profile",
+    "term": "Profile",
+    "pt": "Perfil",
+    "definition": "Face de lado, com um lado predominante; silhueta e contorno ganham importância. Evitar prometer sombra frontal de Butterfly em perfil estrito.",
+    "use": "Arte, elegância e introspecção.",
+    "example_en": "Eye level, strict side-profile head-and-shoulders portrait of an adult, clean facial silhouette, neutral studio, soft directional side light."
+  },
+  {
+    "module": "position",
+    "id": "back",
+    "term": "Back",
+    "pt": "De costas",
+    "definition": "Costas orientadas à câmera; rosto pode não aparecer ou aparecer parcialmente se olhar por cima do ombro for solicitado.",
+    "use": "Silhueta, cabelo, roupa por trás, mistério ou anonimato.",
+    "example_en": "Eye level, back medium shot of an adult in a yellow shirt, face turned away from the camera, neutral studio, soft diffuse light."
+  }
+]

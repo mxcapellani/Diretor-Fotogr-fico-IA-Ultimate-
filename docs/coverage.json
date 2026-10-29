@@ -1,0 +1,867 @@
+[
+  {
+    "source": "ebook",
+    "page": 1,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/foundations.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 2,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/foundations.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 3,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/foundations.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 4,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/foundations.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 5,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/foundations.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 6,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/framing.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 7,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/framing.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 8,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/framing.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 9,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/framing.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 10,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/framing.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 11,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/framing.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 12,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/framing.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 13,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/framing.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 14,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/framing.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 15,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lighting-patterns.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 16,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lighting-patterns.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 17,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lighting-patterns.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 18,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lighting-patterns.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 19,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lighting-patterns.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 20,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lighting-patterns.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 21,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/light-temperature.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 22,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/light-temperature.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 23,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lighting-patterns.md",
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/light-temperature.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 24,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lenses-and-perspective.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 25,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lenses-and-perspective.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 26,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lenses-and-perspective.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 27,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lenses-and-perspective.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 28,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lenses-and-perspective.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 29,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lenses-and-perspective.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 30,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lenses-and-perspective.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 31,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/lenses-and-perspective.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 32,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/camera-angles.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 33,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/camera-angles.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 34,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/camera-angles.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 35,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/camera-angles.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 36,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/camera-angles.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 37,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/camera-angles.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 38,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/camera-angles.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 39,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/camera-angles.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 40,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/camera-angles.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 41,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/model-position.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 42,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/model-position.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 43,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/model-position.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 44,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/model-position.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 45,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/model-position.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 46,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/model-position.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 47,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/model-position.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 48,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/prompt-construction.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 49,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/prompt-construction.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 50,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/prompt-construction.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 51,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/common-errors.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 52,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/glossary.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 53,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/glossary.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 54,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/glossary.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 55,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/foundations.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "ebook",
+    "page": 56,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/ebook-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/foundations.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; panoramic visual review; semantic evaluation pending"
+  },
+  {
+    "source": "guide",
+    "page": 1,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 2,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 3,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 4,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 5,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 6,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 7,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 8,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 9,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 10,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 11,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 12,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 13,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 14,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 15,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 16,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 17,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 18,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 19,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 20,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 21,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 22,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 23,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 24,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 25,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 26,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 27,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 28,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 29,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 30,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 31,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  },
+  {
+    "source": "guide",
+    "page": 32,
+    "text_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-source.md",
+    "topic_references": [
+      ".agents/skills/diretor-fotografico-ia-ultimate/references/guide-image-prompts.md"
+    ],
+    "visual_reference": ".agents/skills/diretor-fotografico-ia-ultimate/references/visual-reference-notes.md",
+    "status": "text captured; visual notes recorded; guide image prompts transcribed where present"
+  }
+]

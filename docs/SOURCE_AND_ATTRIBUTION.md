@@ -1,0 +1,3 @@
+# Origem e direitos
+Fontes fornecidas pelo usuário: eBook “Fundamentos da Fotografia com IA”, Nelson Junior/IAShots, e guia visual IAShots_Fotografia. Os cinco arquivos de guia são idênticos em SHA-256. Inventário e hashes em source-manifest.json.
+Textos, exemplos e descrições da origem mantêm seus direitos. MIT cobre instruções, código e documentação originais do projeto, não relicencia o material de Nelson Junior/IAShots. Não alegar endosso ou autoria dos documentos por mxcapellani. PDFs binários/imagens não redistribuídos; conteúdo textual e transcrições identificados na Skill conforme pedido do usuário. Correções do projeto são separadas da fonte; nomes de ferramentas citados não representam integração implementada.

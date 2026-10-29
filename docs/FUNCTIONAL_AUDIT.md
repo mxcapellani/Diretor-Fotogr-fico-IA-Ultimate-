@@ -1,0 +1,4 @@
+# Auditoria
+Verificado documentalmente: cinco pilares, temperatura, exemplos, tabelas, fórmula, erros, glossário e recomendações de prática. Os textos completos são preservados por página e temas. Guia raster contém prompts que exigem leitura visual; transcrição incluída.
+Inferido: aplicação dos princípios a novos briefings. Recursos novos: modo guiado por etapas, registro contextual de escolhas, equivalência PT/EN, revisão, criação de variações e tratamento explícito de conflitos. Não verificado: equivalência com GPT original, resposta dos geradores ou fidelidade visual. A fonte é material didático, não exportação de um agente.
+Revisão panorâmica das 88 páginas distintas, com ampliações selecionadas. Cobertura textual não equivale a avaliação semântica completa nem reprodução exata das imagens. Conferir testes de aceitação antes de afirmar desempenho.
